@@ -25,7 +25,7 @@ npm run develop
 - Open developer tools
 - type
 ```sh
-superstore.subscribe(value => a = value)
+superstore.count.subscribe(value => a = value)
 ```
 - type and observe number matches count
 ```sh
