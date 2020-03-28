@@ -1,5 +1,5 @@
 # Sharing svelte store across two customElements
-- Built off svelte-rollup-template
+- Built off [svelte-rollup-template from metonym](https://github.com/metonym/svelte-rollup-template).
 
 # What
 - shared svelte store
